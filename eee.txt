@@ -1,1 +1,10 @@
-谢老板是胡洋儿子
+#include<iostream>
+using namespace std;
+int main()
+{
+     cout<<"谢老板是胡洋"
+     while(1)
+     cout<<"的儿子"；
+     cout<<"可能不是"；
+     return 0;
+}
